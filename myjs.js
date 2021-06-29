@@ -1,1 +1,2 @@
-alert('Hello, hiroaki!')
+//alert('Hello, hiroaki!');
+alert(1+1);
